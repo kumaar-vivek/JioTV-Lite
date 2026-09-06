@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:padding="12dp"
+    android:background="@drawable/channel_tile_selector"
+    android:focusable="true"
+    android:clickable="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:paddingTop="2dp">
+
+        <TextView
+            android:id="@+id/tile_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#AAAAAA"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/tile_logo"
+            android:layout_width="72dp"
+            android:layout_height="60dp"
+            android:scaleType="fitCenter"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:id="@+id/tile_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:maxLines="2"
+            android:ellipsize="end" />
+    </LinearLayout>
+
+    <!-- Premium/Crown: top-right -->
+    <ImageView
+        android:id="@+id/tile_crown"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_gravity="top|end"
+        android:contentDescription="Premium"
+        android:src="@drawable/ic_crown"
+        android:visibility="gone" />
+
+    <!-- Favorite: bottom-right; shown ONLY for favorites -->
+    <ImageView
+        android:id="@+id/tile_favorite"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical|end"
+        android:padding="3dp"
+        android:contentDescription="Favorite"
+        android:src="@drawable/ic_favorite"
+        android:visibility="gone"
+        android:clickable="true"
+        android:focusable="false" />
+
+    <ImageView
+        android:id="@+id/tile_hd"
+        android:layout_width="32dp"
+        android:layout_height="20dp"
+        android:layout_gravity="top|start"
+        android:contentDescription="@null"
+        android:src="@drawable/hd"
+        android:visibility="gone" />
+</FrameLayout>

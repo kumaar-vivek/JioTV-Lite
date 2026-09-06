@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="47.447dp"
+    android:width="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="47.447">
+    <path
+        android:fillColor="#e30513"
+        android:pathData="M0,23.726a24,23.5 0,1 0,48 0a24,23.5 0,1 0,-48 0z"/>
+    <path
+        android:fillColor="@drawable/ic_jiotv_logo_new"
+        android:pathData="M23.78,23.724m-23.724,0a23.724,23.724 0,1 1,47.448 0a23.724,23.724 0,1 1,-47.448 0"
+        android:strokeAlpha="0.2"
+        android:fillAlpha="0.2"/>
+    <path
+        android:fillColor="#fff"
+        android:pathData="M27.458,34.288h-7.413a1.44,1.44 0,0 0,0 2.88h7.413a1.44,1.44 0,0 0,0 -2.88Z"/>
+    <path
+        android:fillColor="#fff"
+        android:pathData="M35.092,12.238L12.41,12.238a2.671,2.671 0,0 0,-2.668 2.668L9.742,28.454a2.671,2.671 0,0 0,2.668 2.668h22.68a2.671,2.671 0,0 0,2.668 -2.668L37.758,14.906A2.671,2.671 0,0 0,35.092 12.238ZM27.192,22.679 L22.597,26.326a0.947,0.947 0,0 1,-1.616 -0.67L20.981,18.364a0.947,0.947 0,0 1,1.616 -0.67l4.595,3.647A0.947,0.947 0,0 1,27.188 22.679Z"/>
+</vector>

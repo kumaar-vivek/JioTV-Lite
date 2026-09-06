@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color|reference" name="epg_catchup_disabled"/>
+    <color name="primaryColor_red">#FF0000</color>
+    <string name="app_name">JioTV Lite</string>
+    <string name="channel_not_found">Channel not found</string>
+    <string name="logout">Logout</string>
+    <string name="mobile_hint">Mobile number</string>
+    <string name="otp_hint">OTP</string>
+    <string name="refresh_channels">Refresh channels</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="setup_title">JioTV Lite Live Channels Setup</string>
+    <string name="verify_otp">Verify OTP</string>
+    <style name="Theme.JioTV" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorAccent">#FFFFFF</item>
+        <item name="colorAccent">#FFFFFF</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

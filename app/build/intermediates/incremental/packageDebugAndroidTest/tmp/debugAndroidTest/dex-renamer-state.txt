@@ -1,0 +1,7 @@
+#Sun Aug 23 00:22:27 IST 2026
+base.0=D\:\\JioTV\\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\\JioTV_Lite_EPG_Favorites_Fixed\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\JioTV\\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\\JioTV_Lite_EPG_Favorites_Fixed\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\5\\classes.dex
+path.0=0/classes.dex
+path.1=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

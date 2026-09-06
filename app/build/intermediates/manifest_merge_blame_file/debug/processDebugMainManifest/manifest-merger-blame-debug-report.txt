@@ -1,0 +1,222 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.jitv_lite"
+4    android:versionCode="2"
+5    android:versionName="2.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-feature
+11-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:4:5-87
+12        android:name="android.software.leanback"
+12-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:4:19-59
+13        android:required="false" />
+13-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:4:60-84
+14    <uses-feature
+14-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:5:5-90
+15        android:name="android.hardware.touchscreen"
+15-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:5:19-62
+16        android:required="false" />
+16-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:5:63-87
+17    <uses-feature
+17-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:6:5-89
+18        android:name="android.hardware.microphone"
+18-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:6:19-61
+19        android:required="false" />
+19-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:6:62-86
+20
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:8:5-67
+21-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:8:22-64
+22    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+22-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:9:5-71
+22-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:9:22-68
+23    <uses-permission android:name="com.android.providers.tv.permission.WRITE_EPG_DATA" />
+23-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:10:5-90
+23-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:10:22-87
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+24-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:11:5-80
+24-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:11:22-77
+25    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+25-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:12:5-81
+25-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:12:22-78
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->[androidx.media3:media3-common:1.5.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\5e3233690f8df0163c5030152e0cc3b2\workspace\transformed\media3-common-1.5.1\AndroidManifest.xml:22:5-79
+26-->[androidx.media3:media3-common:1.5.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\5e3233690f8df0163c5030152e0cc3b2\workspace\transformed\media3-common-1.5.1\AndroidManifest.xml:22:22-76
+27
+28    <permission
+28-->[androidx.core:core:1.13.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\9dbe003f5f4ab559500255e35f99974e\workspace\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.android.jitv_lite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.13.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\9dbe003f5f4ab559500255e35f99974e\workspace\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.13.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\9dbe003f5f4ab559500255e35f99974e\workspace\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.android.jitv_lite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.13.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\9dbe003f5f4ab559500255e35f99974e\workspace\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.13.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\9dbe003f5f4ab559500255e35f99974e\workspace\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:14:5-61:19
+35        android:name="com.example.jiotvservice.JioTvApplication"
+35-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:15:9-41
+36        android:allowBackup="false"
+36-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:16:9-36
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.13.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\9dbe003f5f4ab559500255e35f99974e\workspace\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+38        android:banner="@drawable/app_banner"
+38-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:18:9-46
+39        android:debuggable="true"
+40        android:extractNativeLibs="false"
+41        android:icon="@mipmap/ic_launcher"
+41-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:19:9-43
+42        android:label="@string/app_name"
+42-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:21:9-41
+43        android:requestLegacyExternalStorage="true"
+43-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:17:9-52
+44        android:roundIcon="@mipmap/ic_launcher_round"
+44-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:20:9-54
+45        android:supportsRtl="true"
+45-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:22:9-35
+46        android:theme="@style/Theme.JioTV" >
+46-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:23:9-43
+47        <activity
+47-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:25:9-33:20
+48            android:name="com.example.jiotvservice.ui.MainActivity"
+48-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:26:13-68
+49            android:exported="true" >
+49-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:27:13-36
+50            <intent-filter>
+50-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:28:13-32:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:29:17-69
+51-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:29:25-66
+52
+53                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+53-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:30:17-86
+53-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:30:27-83
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:31:17-77
+54-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:31:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:35:9-39:20
+58            android:name="com.example.jiotvservice.ui.SetupActivity"
+58-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:36:13-69
+59            android:exported="true"
+59-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:37:13-36
+60            android:label="@string/setup_title" >
+60-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:38:13-48
+61        </activity>
+62
+63        <service
+63-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:41:9-51:19
+64            android:name="com.example.jiotvservice.tv.JioTvInputService"
+64-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:42:13-73
+65            android:exported="true"
+65-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:43:13-36
+66            android:permission="android.permission.BIND_TV_INPUT" >
+66-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:44:13-66
+67            <intent-filter>
+67-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:45:13-47:29
+68                <action android:name="android.media.tv.TvInputService" />
+68-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:46:17-74
+68-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:46:25-71
+69            </intent-filter>
+70
+71            <meta-data
+71-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:48:13-50:60
+72                android:name="android.media.tv.input"
+72-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:49:17-54
+73                android:resource="@xml/tv_input_service" />
+73-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:50:17-57
+74        </service>
+75
+76        <receiver
+76-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:53:9-60:20
+77            android:name="com.example.jiotvservice.tv.InitializeProgramsReceiver"
+77-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:54:13-82
+78            android:exported="true" >
+78-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:55:13-36
+79            <intent-filter>
+79-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:56:13-59:29
+80                <action android:name="android.media.tv.action.INITIALIZE_PROGRAMS" />
+80-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:57:17-86
+80-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:57:25-83
+81
+82                <category android:name="android.intent.category.DEFAULT" />
+82-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:58:17-76
+82-->D:\JioTV\JioTV_Lite_EPG_Favorites_LoadMore_100_Heart_MiddleRight\JioTV_Lite_EPG_Favorites_Fixed\app\src\main\AndroidManifest.xml:58:27-73
+83            </intent-filter>
+84        </receiver>
+85
+86        <provider
+86-->[androidx.emoji2:emoji2:1.3.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a8bc966f5d1cd104e70fe4fef563e67e\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+87            android:name="androidx.startup.InitializationProvider"
+87-->[androidx.emoji2:emoji2:1.3.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a8bc966f5d1cd104e70fe4fef563e67e\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+88            android:authorities="com.android.jitv_lite.androidx-startup"
+88-->[androidx.emoji2:emoji2:1.3.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a8bc966f5d1cd104e70fe4fef563e67e\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+89            android:exported="false" >
+89-->[androidx.emoji2:emoji2:1.3.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a8bc966f5d1cd104e70fe4fef563e67e\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+90            <meta-data
+90-->[androidx.emoji2:emoji2:1.3.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a8bc966f5d1cd104e70fe4fef563e67e\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+91                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+91-->[androidx.emoji2:emoji2:1.3.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a8bc966f5d1cd104e70fe4fef563e67e\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+92                android:value="androidx.startup" />
+92-->[androidx.emoji2:emoji2:1.3.0] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a8bc966f5d1cd104e70fe4fef563e67e\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+93            <meta-data
+93-->[androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\558495b27d90bf78a1157959019d465b\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:29:13-31:52
+94                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+94-->[androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\558495b27d90bf78a1157959019d465b\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:30:17-78
+95                android:value="androidx.startup" />
+95-->[androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\558495b27d90bf78a1157959019d465b\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:31:17-49
+96            <meta-data
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+97                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+98                android:value="androidx.startup" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+99        </provider>
+100
+101        <receiver
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+102            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+103            android:directBootAware="false"
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+104            android:enabled="true"
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+105            android:exported="true"
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+106            android:permission="android.permission.DUMP" >
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+108                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+109            </intent-filter>
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+111                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+114                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+117                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kumaa\.gradle\caches\9.3.0\transforms\a527f1749e6dc4731bf9fb0339f518f0\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+118            </intent-filter>
+119        </receiver>
+120    </application>
+121
+122</manifest>

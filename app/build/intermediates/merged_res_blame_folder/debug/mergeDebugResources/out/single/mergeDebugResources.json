@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\layout_activity_setup.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\layout\\activity_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_ic_clear.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_jiotv_logo_new.png.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\jiotv_logo_new.png"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_app_banner.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\app_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_ic_favorite_outline.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\ic_favorite_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_ic_epg.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\ic_epg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\xml_tv_input_service.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\xml\\tv_input_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_ic_jiotv_foreground.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\ic_jiotv_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\layout_epg_overlay.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\layout\\epg_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\layout_channel_tile.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\layout\\channel_tile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_channel_placeholder.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\channel_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_channel_tile_selector.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\channel_tile_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_tvguide_hd_unselected_ic_jds.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\tvguide_hd_unselected_ic_jds.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_ic_crown.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\ic_crown.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_epg_close_focus_selector.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\epg_close_focus_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_hd.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\hd.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\layout_player_program_banner.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\layout\\player_program_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_tv_guide_hd_selected_ic_jds.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\tv_guide_hd_selected_ic_jds.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_filter_focus_selector.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\filter_focus_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_ic_jiotv_logo_new.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\ic_jiotv_logo_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_app_icon.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_epg_focus_overlay.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\epg_focus_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jiotvservice.app-debug-30:/drawable_epg_load_more_selector.xml.flat",
+        "source": "com.example.jiotvservice.app-main-32:/drawable/epg_load_more_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable___jiotv_logo_new.jpeg.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\__jiotv_logo_new.jpeg"
+    },
+    {
+        "merged": "com.example.jiotvservice.app-debug-30:/layout_player_program_banner.xml.flat",
+        "source": "com.example.jiotvservice.app-main-32:/layout/player_program_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jiotvservice.app-debug-30:/layout_activity_main.xml.flat",
+        "source": "com.example.jiotvservice.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-debug-30:\\drawable_epg_load_more_selector.xml.flat",
+        "source": "C:\\Users\\kumaa\\.gradle\\daemon\\9.3.0\\com.example.jiotvservice.app-main-32:\\drawable\\epg_load_more_selector.xml"
+    }
+]
